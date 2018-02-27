@@ -1,0 +1,3 @@
+I have decided to take on the webcrawler project with David Rozado as my supervisor and working with Raymond hua in collaboration.
+
+The project involves developing spyders to crawl various newspaper websites, gather data, store and manipulate said data.
